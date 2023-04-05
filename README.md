@@ -1,5 +1,8 @@
 # Architecture Best Practices
 
+## Move2Cloud
+- Cloud Migration strategy
+
 ## Architecture Microservice : 
   - SAGA
   - CQRS
