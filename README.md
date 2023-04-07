@@ -23,19 +23,31 @@
 ## kubernetes best practices
 
 
-## [Clean Code  and Clean Architecture](./clean-code/README.md)
-- [Uncle Bob Martin blog](http://cleancoder.com/products)
+## [Books](./books/README.md)
 
 ## Java
 ### Java 8 -> 20 -> latest release
 - Java News
-- Design Pattern
+- Design Pattern : SOLID, Creational Patterns, Structural Patterns, Behavioral Patterns
+- New Design Pattern : **Ecological Patterns** Created By @AIDeveloperCode and @benallalzakariae 
+
+### Framework
+- Spring boot, spring batch, Spring security...
+- Quarkus ...
+- Kotlin/Micronaut...
+
+### Unit Test, Integration Test, Test System
+- TDD : GWT (Given,When,Then) and AAA (Arrange, Act, Assert)
+- BDD
+- Mockito
+- MockServer, WireMock
 
 ## Typescript
-- Frontend Framework
-  - React JS
-  - Vue.js
-  - Angular
-  - Svelte
-  - Solid
+### Frontend Framework
+  - React JS / Vue.js / Angular / Svelte / Solid
+  - Web Component : StencilJS
+### Unit Test, Test e2e, Test System
+- Jest / Jasmin
+- Cypress / Selenium / Playwright
+
 
