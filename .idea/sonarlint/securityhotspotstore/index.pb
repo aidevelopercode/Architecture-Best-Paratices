@@ -1,0 +1,23 @@
+
+D
+clean-code/README.md,3\1\31fc0d8660a682391b70b507140b17ab52287a28
+7
+LICENSE,0\3\0398ccd0f49298b10a3d76a47800d2ebecd49859
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+E
+clean-code/.gitignore,3\4\346051a8d3a5cc36597a15a9292771e999c58809
+V
+&architecture/event-sourcing/.gitignore,5\e\5e9d89f75ee79a2aa20fb4534871ba941867827c
+U
+%architecture/microservices/.gitignore,d\4\d4109afcffc47e6de4c23076dd80efd1a088f0b5
+Q
+!architecture/hexagonal/.gitignore,1\3\13415af68eea5236039d4ff4e8f386338e2d5627
+E
+typescript/.gitignore,3\0\305edf642d08ce31c53550db22506e30c9fcd209
+?
+java/.gitignore,b\5\b5e4cc4e2eba85f7c2444b511c873c3c48017f5e
+P
+ architecture/hexagonal/README.md,0\7\07e941917e42612604393d3bcee7e05e77c172e7

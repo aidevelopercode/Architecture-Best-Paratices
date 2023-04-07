@@ -1,5 +1,7 @@
 # Architecture Best Practices
-
+Let's connect : 
+- AI Developer Code 🐦 ([@AIDeveloperCode](https://twitter.com/AIDeveloperCode))  
+- Zakariae BEN ALLAL 🐦 ([@zakariaebenalla](https://twitter.com/zakariaebenalla))
 ## Move2Cloud
 - Cloud Migration strategy
 
@@ -29,7 +31,7 @@
 ### Java 8 -> 20 -> latest release
 - Java News
 - Design Pattern : SOLID, Creational Patterns, Structural Patterns, Behavioral Patterns
-- New Design Pattern : **Ecological Patterns** Created By @AIDeveloperCode and @benallalzakariae 
+- New Design Pattern : **Ecological Patterns** Created By [@AIDeveloperCode](https://github.com/aidevelopercode) and [@benallalzakariae](https://twitter.com/zakariaebenalla) 
 
 ### Framework
 - Spring boot, spring batch, Spring security...
