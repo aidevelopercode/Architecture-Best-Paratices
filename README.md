@@ -18,6 +18,10 @@ Let's connect :
 
 ## Architecture Event Sourcing
 
+## Architecture network & protocols
+- WebRTC,
+- HTTP : RESTful, SOAP, JSON:API, HATEOAS, Graphql
+- RMI, JMS, Socket ...
 
 ## Docker vs Podman vs Rancher
 - Docker Desktop alternative
