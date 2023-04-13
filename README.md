@@ -8,7 +8,12 @@ Let's connect :
 ## Architecture Microservice : 
   - SAGA
   - CQRS
+## Architecture Serverless / knative:
+- Knative 
+- quarkus for spring developer pdf
+- https://github.com/RedHat-Middleware-Workshops/enter-serverless-functions
 
+ 
 ## Architecture Hexagonal : 
   - DDD 
   - Package structure : 
