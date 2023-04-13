@@ -1,2 +1,2 @@
-# Clean Code  and Clean Architecture
+# Clean Code and Clean Architecture
 
