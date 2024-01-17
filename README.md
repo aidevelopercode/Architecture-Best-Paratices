@@ -1,7 +1,6 @@
 # Architecture Best Practices
 Let's connect : 
 - AI Developer Code 🐦 ([@AIDeveloperCode](https://twitter.com/AIDeveloperCode))  
-- Zakariae BEN ALLAL 🐦 ([@zakariaebenalla](https://twitter.com/zakariaebenalla))
 ## Move2Cloud
 - Cloud Migration strategy
 
