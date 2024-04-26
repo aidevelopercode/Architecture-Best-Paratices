@@ -20,7 +20,12 @@ Let's connect :
     - Infrastructure
     - Port / Adapter
 
-## Architecture Event Sourcing
+## [Architecture Event Sourcing](architecture%2Fevent-sourcing%2FREADME.md)
+- Kafka
+- Debezium
+- Apache Spark
+- Apache Flink
+- 
 
 ## Architecture network & protocols
 - WebRTC,
