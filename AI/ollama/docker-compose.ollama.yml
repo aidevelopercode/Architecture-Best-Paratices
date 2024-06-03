@@ -1,0 +1,17 @@
+
+services:
+  ollama:
+    image: ollama/ollama
+    ports:
+      - 8247:11434
+    volumes:
+      - .ollama:/root/.ollama
+
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    ports:
+      - 9000:8080
+    volumes:
+      - .open-webui:/app/backend/data
+    environment:
+      - OLLAMA_BASE_URL=http://ollama:11434
